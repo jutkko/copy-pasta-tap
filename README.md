@@ -1,12 +1,12 @@
-#copy-pasta
+# copy-pasta
 
 This repository is based on the [apihub-homebrew-cli](https://github.com/apihub/homebrew-apihub).
 
-##Usage
+## Usage
 
 First, add this tap:
 
-	% brew tap jutkko/homebrew-copy-pasta
+	% brew tap jutkko/copy-pasta-tap
 
 Then install the desired formula:
 
@@ -16,7 +16,7 @@ If you want to uninstall the copy-pasta command line from your computer:
 
 	% brew uninstall copy-pasta
 
-##Publish a new version
+## Publish a new version
 
 > You need to export one environment variable called GITHUB_TOKEN.
 > (You should be able to create one token at https://github.com/settings/applications)
